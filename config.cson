@@ -1,0 +1,27 @@
+"*":
+  "atom-beautify":
+    css:
+      indent_size: 2
+    general:
+      _analyticsUserId: "6184e5cb-b302-4905-9a3a-4ea5f5c26800"
+      analytics: false
+    html:
+      indent_size: 2
+    js:
+      indent_size: 2
+    json:
+      indent_size: 2
+  autosave:
+    enabled: true
+  core:
+    telemetryConsent: "no"
+  editor:
+    scrollPastEnd: true
+    showIndentGuide: true
+  "exception-reporting":
+    userId: "b552cb4c-b0ba-70c8-1d97-1317acaf43a5"
+  "tree-view":
+    hideIgnoredNames: true
+    hideVcsIgnoredFiles: true
+  welcome:
+    showOnStartup: false
